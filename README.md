@@ -36,6 +36,8 @@ We also observed how many films of each genre were created between the years 201
 As discussed, we explored multiple ways to measure success, and the highest rated genres were a different story. While dramas did not rank highly in terms of average domestic gross, they ranked No. 1 in terms of average rating, so depending on Microsoft's main objectives, they could be viable in terms of helping Microsoft achieve what it wants. Other genres that scored very well in terms of average rating were as follows: adventure, action, biography, and comedy.
 
 Regardless of which metric is most important for Microsoft, though, writers make a significant difference with regards to films' success. If Microsoft works with writers with strong track records, it can stand out against the competition in any genre. We provide a list of the top writers on 20 of the highest grossing films. It is interestin to note that often a film may have from 2 to 5 writers. Specifically, Christopher Markus, Derek Connolly, Ken Daurio, and Stephen McFeely are especially good targets for Microsoft, as all of them have worked on multiple films since 2013 that were extremely successful based on gross and rating.
+![writers list]
+(https://github.com/jresis/movie-analysis-microsoft/blob/main/Top-Writers-Films.png)
 
 
 ## Conclusions
