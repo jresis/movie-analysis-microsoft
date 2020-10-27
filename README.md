@@ -6,7 +6,7 @@ This is a collaborative Phase 1 project completed by Joe Resis and Mark Patterso
 
 
 ## Background
-In this project, we find ourselves working as consultants to the newly created Microsoft Movie Studios. We have been tasked with provideing an overviw of the Movie industry and providing some recommendations on how they should enter this lucrative but competitive market. We have decided to first provide a high level overview of the industry based on 3 key success metrics. These are: 
+In this project, we find ourselves working as consultants to the newly created Microsoft Movie Studios. We have been tasked with providing an overview of the Movie industry and providing some recommendations on how they should enter this lucrative but competitive market. We have decided to first provide a high level overview of the industry based on 3 key success metrics. These are: 
 
 1. Financial: What movies have the highest domestic gross? 
 2. Popularity: Which movies have the highest number of ratings?
