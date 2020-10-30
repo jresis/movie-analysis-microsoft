@@ -33,7 +33,7 @@ An important part of our analysis had to do with our findings of the 21 genres' 
 
 <img src="Top-Grossing.png" width="500">
 
-<img src="Gross-by-Genre.png" width="500>
+<img src="Gross-by-Genre.png" width="500">
 
 We also observed how many films of each genre were created between the years 2013-18 in our dataset. The main purpose of this was to find any genres where the cost of getting to the top may be lower than others. Drama would be a relatively difficult genre to succeed in, based on the fact that it only ranked No. 17 in average domestic gross but was No. 1 in movies created. Genres that are not created as often include sports, history films, and documentaries. Of these, the documentary genre is the most interesting. Documentaries typically do not have a high average gross compared to other genres, but relatively few have been produced. In addition, documentaries are becoming gradually more common, so if Microsoft entered the market now, it could take advantage of a growing category that not many have tapped into. As a result, Microsoft could rise to the top more easily there compared to other genres.
 
@@ -45,7 +45,7 @@ As discussed, we explored multiple ways to measure success, and the highest rate
 
 Regardless of which metric is most important for Microsoft, though, writers make a significant difference with regards to films' success. If Microsoft works with writers with strong track records, it can stand out against the competition in any genre. We provide a list of the top writers on 20 of the highest grossing films. It is interestin to note that often a film may have from 2 to 5 writers. Specifically, Christopher Markus, Derek Connolly, Ken Daurio, and Stephen McFeely are especially good targets for Microsoft, as all of them have worked on multiple films since 2013 that were extremely successful based on gross and rating.
 
-<img src="Top-Writers-Films.png" width="500>
+<img src="Top-Writers-Films.png" width="500">
 
 ## Conclusions
 With all of our analysis in mind, we have some recommendations for Microsoft as it enters this market. To summarize, we recommend that while dramas' ratings are promising, they do not make as much, on average, as other genres at the box office, and it is difficult to stand out from the many other dramas being made. Instead, consider focusing on genres like animation and adventure films, which have a high average gross and less genre competition. In addition, sci-fi's numbers are also promising, and those films could fit nicely with Microsoft's brand. Exploring niche genres and becoming a leader for sci-fi films is an attainable objective for Microsoft. As for writers, it is best to work with those having a proven track record, and we have provided a list of writers from the top grossing films. With the right writers, Microsoft could stand out in any genre, even the crowded drama genre.
